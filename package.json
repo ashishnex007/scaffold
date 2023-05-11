@@ -1,16 +1,21 @@
 {
-  "name": "Instacks",
+  "name": "instacks",
   "version": "1.0.0",
-  "description": "main",
+  "description": "scaffold",
   "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishnex007/scaffold.git"
+  },
   "author": "code-cluster",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.2",
-    "node": "^20.1.0"
-  }
+  "bugs": {
+    "url": "https://github.com/ashishnex007/scaffold/issues"
+  },
+  "homepage": "https://github.com/ashishnex007/scaffold#readme"
 }
